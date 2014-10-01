@@ -65,8 +65,10 @@ class TamagatchiWorld:
         self.tamagatchi.colorized_pet_name()
         print("!")
         while True:
+            # every 180 seconds, make the tamagatchi pet sleep
             sleep_time = time.time() + 180
             while time.time() < sleep_time:
+                # every 20 seconds, make the tamagatchi pet poop
                 poop_time = time.time() + 20
                 while time.time() < poop_time:
                     self.show_choices()
