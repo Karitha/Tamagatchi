@@ -1,7 +1,7 @@
 Tamagatchi
 ==========
 
-Progamming challenge from /r/dailyprogrammer.
+Programming challenge from /r/dailyprogrammer.
 
 The Tamagatchi pet can be fed, poop, exercise contract diseases, and fall in love.
 It is your job to take care of your Tamagatchi!
